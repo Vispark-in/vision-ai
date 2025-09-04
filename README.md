@@ -59,7 +59,8 @@ There you will find the API. You will find a clean playground to test its limits
 
 [Explore API](https://lab.vispark.in)
 
+--- 
 
-_The age of generic AI is a dead end. It is a loud room where everyone is shouting and no one is listening. We have left that room.
+The age of generic AI is a dead end. It is a loud room where everyone is shouting and no one is listening. We have left that room.
 
-The age of personal, perceptive, and truthful intelligence has begun. We have built it. It is here._
+The age of personal, perceptive, and truthful intelligence has begun. We have built it. It is here.
